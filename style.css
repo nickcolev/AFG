@@ -1,0 +1,10 @@
+a	{ text-decoration: none; color: #ffa; }
+a:hover	{ text-decoration: underline; }
+body { background: #112411; color: #fff; font-family: Roboto,sans-serif; }
+fn	{ font-size: 0.4em; font-weight: normal; display: block; }
+h1	{ padding-bottom: 1em; }
+footer	{ padding-top: 2em; font-size: 0.75em; }
+dt	{ font-size: 1.1em; font-weight: bold; }
+dd	{ padding-bottom: 1em; }
+#main	{ margin-left: 2em; }
+.note	{ font-size: 0.75em; }
